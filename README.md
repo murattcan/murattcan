@@ -33,3 +33,5 @@ Technologies which I teach and use:
 - Python
 - ASP.NET Core
 - Flutter
+
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=murattcan&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=murattcan&layout=compact&langs_count=10&hide=html,smarty,javascript)
